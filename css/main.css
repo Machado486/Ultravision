@@ -296,13 +296,28 @@ margin: 0px 20px 143px 20px;
 
 .footer {
 background-color: #231f20;
-height: 2229px;
+height: 1550px;
 text-align: center;
 }
 
 .titre-footer {
+font-size: 40px;
 color: #ffffff;
 width: 316px;
 height: 56px;
 margin: 64px 562px 64px 562px;
+}
+
+.contact {
+font-size: 40px;
+color: #ffffff;
+width: 170px;
+height: 56px;
+margin: 64px 635px 64px 635px;
+}
+
+.formulaire{
+margin: 64px auto 814px auto;
+font-size: 16px;
+color: #ffffff;
 }
