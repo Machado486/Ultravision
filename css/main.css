@@ -178,3 +178,52 @@ margin: 32px 47px 32px 32px;
 font-size: 16px;
 text-align: justify;
 }
+
+.advance{
+color: #231F20;
+margin: 64px 505px 64px 505px;
+font-size: 40px;
+text-align: center;
+}
+
+.ligne1{
+display : flex;
+justify-content: space-around;
+align-items: stretch;
+background-image: url(../img/bg-red.png);
+text-align: left;
+}
+
+.titre-ligne{
+color: #ffffff;
+font-size:32px;
+margin : 64px 45px 32px 60px;
+}
+
+.paragraphe3{
+color: #ffffff;
+width: 487px;
+height: 66px;
+font-size:24px;
+margin : 32px 148px 32px 60px;
+}
+
+.feature1{
+width: 745px;
+height: 576px;
+margin : 18px 0px 48px 0px;
+mix-blend-mode: darken;
+}
+
+.bouton-3{
+display:block;
+width: 185px;
+height: 45px;
+margin: 32px 450px 356px 60px;
+padding: 7px 24px 7px 23px;
+text-align: center;
+border-radius: 15px;
+border: solid 4px;
+color: #ffffff;
+font-size: 20px;
+}
