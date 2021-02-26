@@ -237,3 +237,12 @@ background-image: url(../img/bg-violet.png);
 height: 640px;
 text-align: left;
 }
+
+.ligne3{
+display : flex;
+justify-content: space-around;
+align-items: stretch;
+background-image: url(../img/bg-blue.png);
+height: 640px;
+text-align: left;
+}
