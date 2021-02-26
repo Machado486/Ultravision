@@ -26,6 +26,7 @@ h1 {
 
 /* titre de section */
 h2 {
+  color: #231F20;
   font-size: 40px;
   text-align: center;
   font-weight: bold;
@@ -133,4 +134,47 @@ padding: 10px 36px;
 border-radius: 15px;
 border: solid 4px;
 color: #fcce00bd;
+font-size: 20px;
+}
+
+.blanc {
+margin: 40px 0px 0px 0px;
+}
+
+.ordinateur-2 {
+width: 378px;
+height: 486px;
+mix-blend-mode: darken;
+display: block;
+margin: 0px 171px 0px 171px;
+}
+
+.bouton-2 {
+width: 185px;
+height: 48px;
+margin: 32px 47px 214px 488px;
+padding: 10px 36px;
+border-radius: 15px;
+border: solid 4px;
+color: #ff6b00;
+font-size: 20px;
+}
+
+.colonne3{
+background-image: url(../img/bg-orange.png);
+}
+
+.titre-paragraphe2 {
+margin: 64 33px 32px 33;
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+}
+
+.paragraphe2 {
+width: 640px;
+height: 184px;
+margin: 32px 47px 32px 32px;
+font-size: 16px;
+text-align: justify;
 }
